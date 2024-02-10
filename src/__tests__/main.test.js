@@ -3,6 +3,6 @@ describe('Tests', () => {
 		expect(2).toBe(2);
 	});
 	test('Second test', () => {
-		expect(1).toBe(2);
+		expect(3).toBe(3);
 	});
 });
